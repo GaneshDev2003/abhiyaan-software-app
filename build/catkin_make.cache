@@ -1,0 +1,2 @@
+beginner_tutorials:turtle_control
+-DCATKIN_DEVEL_PREFIX=/home/ganesh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ganesh/catkin_ws/install -G Unix Makefiles
